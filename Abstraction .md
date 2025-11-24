@@ -4,7 +4,6 @@
 
 To create an *abstract class* named Shape with an *abstract method* calculate_area, and implement this method in two subclasses: Rectangle and Circle.
 
----
 
 ##  ALGORITHM
 
@@ -26,7 +25,7 @@ To create an *abstract class* named Shape with an *abstract method* calculate_ar
    - Instantiate Rectangle and Circle.
    - Call their calculate_area() methods.
 
----
+
 
 ##  Program
 
